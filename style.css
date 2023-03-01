@@ -7,7 +7,7 @@ body {
   
   canvas {
     display: block;
-    /* vertical-align: bottom; */
+    vertical-align: bottom;
   }
   
   /* ---- particles.js container ---- */
@@ -45,10 +45,10 @@ body {
     font-size: 1.1em;
   }
   
-  /* #stats,
+  #stats,
   .count-particles{
     -webkit-user-select:none;
-  } */
+  }
   
   #stats{
     border-radius: 3px 3px 0 0;
